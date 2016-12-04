@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIDemo", "WebAPIDemo\WebAPIDemo.csproj", "{45FDAF98-7DFB-4858-929F-FCF8401FC3DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventureWorksData", "AdventureWorksData\AdventureWorksData.csproj", "{2466C513-7C9B-46C3-8DD8-0137F4DEE426}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45FDAF98-7DFB-4858-929F-FCF8401FC3DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45FDAF98-7DFB-4858-929F-FCF8401FC3DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45FDAF98-7DFB-4858-929F-FCF8401FC3DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45FDAF98-7DFB-4858-929F-FCF8401FC3DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2466C513-7C9B-46C3-8DD8-0137F4DEE426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2466C513-7C9B-46C3-8DD8-0137F4DEE426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2466C513-7C9B-46C3-8DD8-0137F4DEE426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2466C513-7C9B-46C3-8DD8-0137F4DEE426}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
